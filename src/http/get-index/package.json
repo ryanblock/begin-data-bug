@@ -1,0 +1,8 @@
+{
+  "name": "forest-1dg-get-index",
+  "dependencies": {
+    "@architect/data": "^3.0.5",
+    "@architect/functions": "^3.3.7",
+    "@begin/data": "^1.1.2"
+  }
+}
